@@ -1,0 +1,2 @@
+# Smeagol
+coding=hacking
